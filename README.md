@@ -19,7 +19,11 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    composer update
    ```
-4. Kemudian masukan perintah untuk menjalankan aplikasi.
+4. Kemudian masukan perintah dibawah ini untuk generate new key.
+   ```sh
+   php artisan key:generate
+   ```
+4. dan masukan perintah dibawah ini untuk menjalankan aplikasi.
    ```sh
    php artisan serve
    ```
