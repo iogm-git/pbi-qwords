@@ -33,7 +33,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Ilham Rahmat Akbar - ilhamrhmtkbr@gmail.com
 
-Project Link: [https://github.com/iogm-git/pbi-laravel](https://github.com/iogm-git/pbi-laravel)
+Project Link: [https://github.com/iogm-git/pbi-qwords](https://github.com/iogm-git/pbi-qwords)
 
 
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
